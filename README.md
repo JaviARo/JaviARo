@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hola, soy Javier 👋</h1>
+<h2 align="center">Desarrollador de aplicaciones multiplataforma</h2>
+
+<h3>Mis stack tecnológico:</h3>
+
+
 
 <!--
 **JaviARo/JaviARo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
